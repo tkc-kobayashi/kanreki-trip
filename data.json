@@ -19,7 +19,7 @@
       "label": "2日目",
       "place": "大津",
       "items": [
-        { "start": "9:00", "title": "宿を出発", "desc": "", "mapUrl": "https://maps.app.goo.gl/kQ4xaH1YqPmYGz6P9" },
+        { "start": "9:00", "title": "宿を出発", "desc": "",  "map": null },
         { "start": "11:00", "end": "12:30", "title": "ミシガンクルーズ", "desc": "ランチ(大津港から乗船)", "mapUrl": "https://maps.app.goo.gl/NEtMqhPMocLCBqVZ6" },
         { "start": "13:00", "end": "15:00", "title": "皇子が丘公園", "desc": "", "mapUrl": "https://maps.app.goo.gl/p67YP2ziDYuocbMc6" },
         { "start": "17:00", "title": "帰宅", "desc": "", "map": null }
