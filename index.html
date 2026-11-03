@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>滋賀 望郷の旅</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@500;700&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav class="site-nav" aria-label="ページ内ナビゲーション">
+  <a href="#cover">TOP</a>
+  <a href="#itinerary">行程</a>
+  <a href="#links">リンク集</a>
+  <a href="#notes">注意事項</a>
+</nav>
+
+<main>
+
+  <section id="cover" class="cover">
+    <div class="cover-stamp" aria-hidden="true">
+      <span>祝</span><span>還</span><span>暦</span>
+    </div>
+    <h1 class="cover-title">滋賀 望郷の旅</h1>
+    <p class="cover-subtitle">Sponsored By YOJI</p>
+    <svg class="cover-wave" viewBox="0 0 390 40" preserveAspectRatio="none" aria-hidden="true">
+      <path d="M0 20 Q 32.5 0, 65 20 T 130 20 T 195 20 T 260 20 T 325 20 T 390 20" fill="none" stroke="#B3261E" stroke-width="2"/>
+    </svg>
+  </section>
+
+  <section id="itinerary" class="section">
+    <h2 class="section-title">行程</h2>
+    <div class="timeline-legend">
+      <span><svg viewBox="0 0 28 4" aria-hidden="true"><line x1="0" y1="2" x2="28" y2="2" stroke="#B3261E" stroke-width="2"/></svg>観光・滞在</span>
+      <span><svg viewBox="0 0 28 4" aria-hidden="true"><line x1="1" y1="2" x2="28" y2="2" stroke="#6B5F55" stroke-width="2" stroke-dasharray="2 4" stroke-linecap="round"/></svg>移動</span>
+    </div>
+    <div id="itinerary-days"></div>
+  </section>
+
+  <section id="links" class="section">
+    <h2 class="section-title">リンク集</h2>
+    <div id="link-cards"></div>
+  </section>
+
+  <section id="notes" class="section">
+    <h2 class="section-title">注意事項</h2>
+    <ul id="notes-list" class="notes-list"></ul>
+  </section>
+
+</main>
+
+<script src="app.js" defer></script>
+</body>
+</html>

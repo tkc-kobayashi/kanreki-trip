@@ -1,0 +1,39 @@
+{
+  "days": [
+    {
+      "id": "day1",
+      "label": "1日目",
+      "place": "近江八幡",
+      "items": [
+        { "start": "8:15", "title": "出発", "desc": "", "map": null },
+        { "start": "9:15", "end": "9:45", "title": "桂川PAで合流", "desc": "名神高速 上り", "mapUrl": "https://maps.app.goo.gl/8ywKbvhJ8bUTVAcaA" },
+        { "start": "11:00", "end": "12:30", "title": "ラ コリーナ近江八幡", "desc": "", "mapUrl": "https://maps.app.goo.gl/4zT68iruktkyF4W58" },
+        { "start": "13:00", "end": "15:30", "title": "近江八幡散策", "desc": "八幡堀など", "map": null },
+        { "start": "16:00", "end": "16:30", "title": "一度宿に移動", "desc": "", "mapUrl": "https://maps.app.goo.gl/kQ4xaH1YqPmYGz6P9" },
+        { "start": "17:00", "end": "19:00", "title": "近江牛の夕食", "desc": "日本料理中川牛すいれん", "mapUrl": "https://maps.app.goo.gl/YY5LrJkw5LEm4u3Z8" },
+        { "start": "19:30", "title": "宿に帰宅", "desc": "", "mapUrl": "https://maps.app.goo.gl/kQ4xaH1YqPmYGz6P9" }
+      ]
+    },
+    {
+      "id": "day2",
+      "label": "2日目",
+      "place": "大津",
+      "items": [
+        { "start": "9:00", "title": "宿を出発", "desc": "", "mapUrl": "https://maps.app.goo.gl/kQ4xaH1YqPmYGz6P9" },
+        { "start": "11:00", "end": "12:30", "title": "ミシガンクルーズ", "desc": "ランチ(大津港から乗船)", "mapUrl": "https://maps.app.goo.gl/NEtMqhPMocLCBqVZ6" },
+        { "start": "13:00", "end": "15:00", "title": "皇子が丘公園", "desc": "", "mapUrl": "https://maps.app.goo.gl/p67YP2ziDYuocbMc6" },
+        { "start": "17:00", "title": "帰宅", "desc": "", "map": null }
+      ]
+    }
+  ],
+  "links": [
+    { "name": "ラ コリーナ近江八幡", "url": "https://taneya.jp/la_collina/" },
+    { "name": "近江八幡散策スポット", "url": "https://maps.app.goo.gl/oYbXx4DZhPNz9aX68?g_st=il", "type": "map" },
+    { "name": "ミシガンクルーズ", "url": "https://www.biwakokisen.co.jp/cruise/michigan/" }
+  ],
+  "notes": [
+    "宿にはシャンプー・コンディショナー・ボディーソープ・バスタオル・タオル・歯ブラシがあります。",
+    "2日目の朝ごはんは宿で食べる予定です。宿に朝ごはんの用意はないため、1日目にパンなどを買っておきましょう。",
+    "ミシガンクルーズは寒いと思われるので、上着を忘れずに。"
+  ]
+}
