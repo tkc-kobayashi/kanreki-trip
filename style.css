@@ -109,15 +109,6 @@ h1, h2, h3 {
   max-height: 440px;
 }
 
-.cover-subtitle {
-  margin-top: 20px;
-  color: var(--muted);
-  font-family: "Shippori Mincho", serif;
-  font-weight: 500;
-  font-size: 15px;
-  letter-spacing: 0.12em;
-}
-
 .cover-wave {
   width: 70%;
   max-width: 260px;
